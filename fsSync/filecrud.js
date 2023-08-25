@@ -26,14 +26,21 @@
 
 
 
-const fs = require("fs")
-fs.unlinkSync("bio.txt")
+// const fs = require("fs")
+// fs.unlinkSync("bio.txt")
 
 
 // ------------------------------------------- DELETE FOLDER -------------------------------------------
 
 
-fs.rmdirSync("foldername")
+
+
+
+
+
+
+
+
 
 
 
